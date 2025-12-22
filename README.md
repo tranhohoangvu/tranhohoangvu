@@ -59,5 +59,5 @@ and a warehouse management application—emphasizing clear APIs, authentication,
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: hoangvu2k4cmg@gmail.com
 - Portfolio: https://tranhohoangvu.github.io/my-portfolio/
