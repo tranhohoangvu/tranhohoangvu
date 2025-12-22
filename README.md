@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Trần Hồ Hoàng Vũ</h1>
 <p align="center">
-  Backend-focused developer • Love building APIs & reliable systems
+  Backend-focused developer • I enjoy building clean APIs & reliable systems
 </p>
 
 <p align="center">
@@ -15,28 +15,30 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m focused on backend development and enjoy building clean, maintainable services.
-I’ve worked on projects like an e-commerce platform (Node.js/Express), a Laravel POS system,
-and a warehouse management application—emphasizing clear APIs, authentication, and database-driven workflows.
+I’m focused on backend development and enjoy turning requirements into maintainable services.
+I’ve built projects such as an **e-commerce platform (Node.js/Express)**, a **Laravel POS system**, and a **warehouse management application**—working with REST APIs, authentication flows, and database-driven features.
 
 **Future direction:** deepen backend architecture, performance, and reliability practices while contributing to real-world products.
 
 ---
 
 ## 🚀 Featured Projects
-- **MiniCloud – Docker-based Microservices Infrastructure**  
-  Multi-service orchestration with gateway routing, auth integration, and monitoring/observability.
 
-- **E-commerce Platform (Node.js/Express)**  
-  REST APIs, auth, cart/checkout, order flows, database-driven features.
+### 1) MiniCloud – Docker-based Microservices Infrastructure
+Multi-service orchestration with gateway routing, auth integration, and monitoring/observability.  
+Repo: **[MiniCloud](https://github.com/tranhohoangvu/tranhohoangvuminiclouddemo)** 
 
-- **Phone Store POS (Laravel 10)**  
-  Sales/checkout, inventory, reporting, PDF invoices, role-based access.
+### 2) E-commerce Platform (Node.js/Express)
+REST APIs, auth, cart/checkout, order flows, database-driven features.  
+Repo: **[E-Commerce-Website](https://github.com/tranhohoangvu/E-Commerce-Website)**
 
-- **WarehouseMA**  
-  Inventory workflows, inbound/outbound tracking, basic reporting.
+### 3) Phone Store POS System (Laravel 10)
+Sales/checkout, inventory, reporting, PDF invoices, role-based access.  
+Repo: **[Web-Programming-and-Applications](https://github.com/tranhohoangvu/Web-Programming-and-Applications)**
 
-> Tip: gắn link repo cho từng project để nhìn “xịn” hơn.
+### 4) WarehouseMA – Warehouse Management System
+Inventory workflows, inbound/outbound tracking, basic reporting.  
+Repo: **[WarehouseMA](https://github.com/tranhohoangvu/WarehouseMA)**
 
 ---
 
@@ -60,4 +62,4 @@ and a warehouse management application—emphasizing clear APIs, authentication,
 
 ## 📫 Contact
 - Email: hoangvu2k4cmg@gmail.com
-- Portfolio: https://tranhohoangvu.github.io/my-portfolio/
+- Portfolio: **[tranhohoangvu.github.io/my-portfolio](https://tranhohoangvu.github.io/my-portfolio/)**
