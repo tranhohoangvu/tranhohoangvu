@@ -1,6 +1,6 @@
 <!-- PROFILE README for tranhohoangvu -->
 
-<h1 align="center">👋 Hi, I'm Trần Hồ Hoàng Vũ</h1>
+<h1 align="center">👋 Hi, I'm Tran Ho Hoang Vu</h1>
 <p align="center">
   Backend-focused developer • I enjoy building clean APIs & reliable systems
 </p>
