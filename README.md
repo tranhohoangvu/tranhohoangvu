@@ -53,12 +53,11 @@ Repo: **[WarehouseMA](https://github.com/tranhohoangvu/WarehouseMA)**
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 <p align="center">
   <img height="160" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=tranhohoangvu&show_icons=true&theme=transparent&hide_border=true&v=1" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tranhohoangvu&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
   <img height="160" alt="GitHub Streak"
-       src="https://streak-stats.demolab.com/?user=tranhohoangvu&theme=transparent&hide_border=true&v=1" />
+       src="https://streak-stats.demolab.com/?user=tranhohoangvu&theme=transparent&hide_border=true&type=svg&v=1" />
 </p>
 
 ---
