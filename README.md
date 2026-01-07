@@ -58,6 +58,8 @@ Repo: **[WarehouseMA](https://github.com/tranhohoangvu/WarehouseMA)**
        src="https://github-readme-stats-wheat-phi-56.vercel.app/api?username=tranhohoangvu&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
   <img height="160" alt="Top Languages"
        src="https://github-readme-stats-wheat-phi-56.vercel.app/api/top-langs/?username=tranhohoangvu&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="160" alt="GitHub Streak"
+     src="https://streak-stats.demolab.com/?user=tranhohoangvu&theme=transparent&hide_border=true" />
 </p>
 
 ---
