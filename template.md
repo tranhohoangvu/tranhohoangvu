@@ -62,9 +62,9 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 <p align="center">
   <img height="155" alt="GitHub Stats"
-       src="https://github-readme-stats-wheat-phi-56.vercel.app/api?username=tranhohoangvu&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
+       src="https://github-stats-extended.vercel.app/api?username=tranhohoangvu&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
   <img height="155" alt="Top Languages"
-       src="https://github-readme-stats-wheat-phi-56.vercel.app/api/top-langs/?username=tranhohoangvu&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=tranhohoangvu&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
