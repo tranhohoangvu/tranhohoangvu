@@ -1,0 +1,26 @@
+{
+  "name": "tranhohoangvu",
+  "version": "1.0.0",
+  "description": "Personal GitHub Profile README for Tran Ho Hoang Vu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranhohoangvu/tranhohoangvu.git"
+  },
+  "keywords": [
+    "tranhohoangvu",
+    "backend-developer",
+    "github-profile",
+    "portfolio"
+  ],
+  "author": "Tran Ho Hoang Vu <hoangvu2k4cmg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranhohoangvu/tranhohoangvu/issues"
+  },
+  "homepage": "https://github.com/tranhohoangvu/tranhohoangvu#readme"
+}

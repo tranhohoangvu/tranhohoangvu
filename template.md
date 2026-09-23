@@ -150,6 +150,4 @@ Repo: **[WarehouseMA](https://github.com/tranhohoangvu/WarehouseMA)**
 
 ## 💡 Quote of the Day
 
-> "What would life be if we had no courage to attempt anything?"
->
-> — *Vincent van Gogh*
+{QUOTE_HERE}
