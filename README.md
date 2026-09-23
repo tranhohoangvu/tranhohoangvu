@@ -3,12 +3,12 @@
 <h1 align="center">👋 Hi, I'm Tran Ho Hoang Vu</h1>
 
 <p align="center">
-  Backend Developer • Computer Science Graduate
+  Backend Developer • AI Engineer • Computer Science Graduate
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=550&lines=Backend+Developer+%E2%80%A2+Computer+Science+Graduate;Building+scalable+%26+reliable+backend+services;Node.js+%E2%80%A2+Express+%E2%80%A2+Laravel+%E2%80%A2+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%E2%80%A2+AI+Engineer;Building+scalable+services+%26+intelligent+automation;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,23 +24,24 @@
 
 ### 🧑‍💻 About Me
 
-Computer Science graduate from **Ton Duc Thang University** focusing on **Backend Development & Systems Automation**. Experienced in building reliable REST APIs, database architecture, and workflow automation (Node.js, Express, Laravel, Docker).
+Computer Science graduate from **Ton Duc Thang University** focusing on **Backend Development, Systems Automation & Applied AI**. Experienced in building scalable RESTful APIs, robust database architectures, and intelligent workflows using Node.js, Express, Next.js, PostgreSQL, Docker, and Python.
 
 ---
 
 ### 💼 Experience
 
-- **Software Engineering Intern** @ **TMA Solutions** *(Mar 2026 – Jun 2026)*
-  - Automated development workflows with Jira REST API, JQL, JSON & Atlassian Document Format (ADF).
+- **Backend Developer Intern** @ **TMA Solutions** *(Mar 2026 – Jun 2026)*
+  - Designed & implemented backend automation workflows connecting Discord & Jira via OpenClaw, Jira REST API, JQL, and Atlassian Document Format (ADF).
 
 ---
 
 ### 🚀 Featured Projects
 
-- ☁️ **[MiniCloud](https://github.com/tranhohoangvu/tranhohoangvuminiclouddemo)** — Docker-based microservices infrastructure with gateway routing, authentication, and monitoring.
-- 🛒 **[E-Commerce Platform](https://github.com/tranhohoangvu/E-Commerce-Website)** — Backend-oriented e-commerce REST APIs built with Node.js & Express.
-- 📱 **[Phone Store POS System](https://github.com/tranhohoangvu/Web-Programming-and-Applications)** — Retail point-of-sale management system built with Laravel 10.
-- 📦 **[WarehouseMA](https://github.com/tranhohoangvu/WarehouseMA)** — Warehouse management application for inbound/outbound inventory tracking.
+- 🏥 **[BookingCare](https://github.com/tranhohoangvu/booking-care)** — Healthcare appointment booking platform with atomic scheduling, PostgreSQL RLS & RBAC *(Next.js 15, TypeScript, Supabase, PostgreSQL)*.
+- 🎓 **[CourseHub LMS](https://github.com/tranhohoangvu/coursehub-lms)** — Full-stack LMS with modular MVC backend, native pg driver, rate limiting & paginated REST APIs *(React, Node.js/Express, PostgreSQL)*.
+- 📄 **[PDF Vision OCR](https://github.com/tranhohoangvu/pdf-vision-ocr)** — Intelligent document processing pipeline with OCR extraction, Vision AI fallback & batch export *(FastAPI, PaddleOCR, Gemini Vision, Streamlit)*.
+- ☁️ **[MyMiniCloud](https://github.com/tranhohoangvu/tranhohoangvuminiclouddemo)** — Cloud simulation with Nginx API gateway, Keycloak OIDC authentication & Prometheus/Grafana monitoring *(Docker Compose)*.
+- 🛒 **[E-Commerce Platform](https://github.com/tranhohoangvu/E-Commerce-Website)** — Full-stack commerce system with VNPAY payment, Google OAuth, Socket.IO & CI/CD *(React, Express, MongoDB, Docker)*.
 
 ---
 
@@ -48,12 +49,13 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ![Node.js](https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-333?style=flat-square&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-333?style=flat-square&logo=laravel)
-![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql)
+![Next.js](https://img.shields.io/badge/Next.js-333?style=flat-square&logo=next.js)
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)
-![Jira](https://img.shields.io/badge/Jira-333?style=flat-square&logo=jira)
 ![REST API](https://img.shields.io/badge/REST%20API-333?style=flat-square)
 
 ---
@@ -83,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "The best error message is the one that never shows up."
+> "There is an essence of when you are fearless, you become more creative."
 >
-> — *Thomas Fuchs*
+> — *Gurbaksh Chahal*
