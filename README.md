@@ -1,6 +1,8 @@
 <!-- PROFILE README for tranhohoangvu -->
 
-<h1 align="center">👋 Hi, I'm Tran Ho Hoang Vu</h1>
+<h1 align="center">
+  <img src="./assets/header.svg" alt="👋 Hi, I'm Tran Ho Hoang Vu" width="550" />
+</h1>
 
 <p align="center">
   Backend Developer • AI Engineer • Computer Science Graduate
@@ -85,6 +87,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "There is an essence of when you are fearless, you become more creative."
+> "Java is to JavaScript what car is to carpet."
 >
-> — *Gurbaksh Chahal*
+> — *Chris Heilmann*
