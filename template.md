@@ -36,6 +36,7 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 ### 🚀 Featured Projects
 
 - 🏥 **[BookingCare](https://github.com/tranhohoangvu/booking-care)** — Healthcare appointment booking platform with atomic scheduling, PostgreSQL RLS & RBAC *(Next.js 15, TypeScript, Supabase, PostgreSQL)*.
+- 🏫 **[Class Manager](https://github.com/tranhohoangvu/class-manager)** — Full-stack classroom & attendance management platform with dynamic RBAC, interactive seating grid & timetable conflict resolution *(Next.js 16, React 19, TypeScript, Express, PostgreSQL)*.
 - 🎓 **[CourseHub LMS](https://github.com/tranhohoangvu/coursehub-lms)** — Full-stack LMS with modular MVC backend, native pg driver, rate limiting & paginated REST APIs *(React, Node.js/Express, PostgreSQL)*.
 - 📄 **[PDF Vision OCR](https://github.com/tranhohoangvu/pdf-vision-ocr)** — Intelligent document processing pipeline with OCR extraction, Vision AI fallback & batch export *(FastAPI, PaddleOCR, Gemini Vision, Streamlit)*.
 - ☁️ **[MyMiniCloud](https://github.com/tranhohoangvu/tranhohoangvuminiclouddemo)** — Cloud simulation with Nginx API gateway, Keycloak OIDC authentication & Prometheus/Grafana monitoring *(Docker Compose)*.
@@ -48,6 +49,7 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 ![Node.js](https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-333?style=flat-square&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-333?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql)
