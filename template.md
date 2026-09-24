@@ -1,16 +1,12 @@
 <!-- PROFILE README for tranhohoangvu -->
 
-<h1 align="center">
-  <img src="./assets/header.svg" alt="👋 Hi, I'm Tran Ho Hoang Vu" width="550" />
-</h1>
-
-<p align="center">
-  Backend Developer • AI Engineer • Computer Science Graduate
-</p>
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
+</div>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%E2%80%A2+AI+Engineer;Building+scalable+services+%26+intelligent+automation;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+services+%26+intelligent+automation;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Python;OpenClaw+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
