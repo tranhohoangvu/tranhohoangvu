@@ -36,7 +36,7 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 ### 🚀 Featured Projects
 
 - 🏥 **[BookingCare](https://github.com/tranhohoangvu/booking-care)** — Healthcare appointment booking platform with atomic scheduling, PostgreSQL RLS & RBAC *(Next.js 15, TypeScript, Supabase, PostgreSQL)*.
-- 🏫 **[SchoolOps](https://github.com/tranhohoangvu/school-ops)** — Full-stack classroom & attendance management platform with dynamic RBAC, interactive seating grid & timetable conflict resolution *(Next.js 16, React 19, TypeScript, Express, PostgreSQL)*.
+- 🏫 **[SchoolOps](https://github.com/tranhohoangvu/school-ops)** — School operations management platform with dynamic per-class RBAC, attendance, seating arrangements, teacher assignments & timetable conflict prevention *(Next.js 16, React 19, TypeScript, Express, PostgreSQL)*.
 - 🎓 **[CourseHub LMS](https://github.com/tranhohoangvu/coursehub-lms)** — Full-stack LMS with modular MVC backend, native pg driver, rate limiting & paginated REST APIs *(React, Node.js/Express, PostgreSQL)*.
 - 📄 **[PDF Vision OCR](https://github.com/tranhohoangvu/pdf-vision-ocr)** — Intelligent document processing pipeline with OCR extraction, Vision AI fallback & batch export *(FastAPI, PaddleOCR, Gemini Vision, Streamlit)*.
 - ☁️ **[MyMiniCloud](https://github.com/tranhohoangvu/tranhohoangvuminiclouddemo)** — Cloud simulation with Nginx API gateway, Keycloak OIDC authentication & Prometheus/Grafana monitoring *(Docker Compose)*.
