@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Live your life and forget your age."
+> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
 >
-> — *Norman Vincent Peale*
+> — *Steve Jobs*
