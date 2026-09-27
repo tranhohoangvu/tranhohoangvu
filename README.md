@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+> "The price of inaction is far greater than the cost of making a mistake."
 >
-> — *Steve Jobs*
+> — *Meister Eckhart*
