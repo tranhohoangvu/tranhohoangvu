@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "A golden cage is still just a cage."
 >
-> — *John Johnson*
+> — *Anita Krizzan*
