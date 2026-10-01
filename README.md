@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "A golden cage is still just a cage."
+> "Intelligence is the ability to adapt to change."
 >
-> — *Anita Krizzan*
+> — *Stephen Hawking*
