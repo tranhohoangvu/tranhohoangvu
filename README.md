@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Intelligence is the ability to adapt to change."
+> "The best error message is the one that never shows up."
 >
-> — *Stephen Hawking*
+> — *Thomas Fuchs*
