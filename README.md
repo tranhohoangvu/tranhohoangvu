@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Debugging is twice as hard as writing the code in the first place."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — *Brian Kernighan*
+> — *Martin Fowler*
