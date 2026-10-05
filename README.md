@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> "Anything becomes interesting if you look at it long enough.."
 >
-> — *Martin Fowler*
+> — *Gustave Flaubert*
