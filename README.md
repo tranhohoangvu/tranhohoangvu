@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Anything becomes interesting if you look at it long enough.."
+> "Peace is letting it be. Letting life flow, letting emotions flow through you."
 >
-> — *Gustave Flaubert*
+> — *Kamal Ravikant*
