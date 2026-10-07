@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Peace is letting it be. Letting life flow, letting emotions flow through you."
+> "To be angry is to revenge the faults of others on ourselves."
 >
-> — *Kamal Ravikant*
+> — *Alexander Pope*
