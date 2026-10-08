@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "To be angry is to revenge the faults of others on ourselves."
+> "You must welcome change as the rule but not as your ruler."
 >
-> — *Alexander Pope*
+> — *Denis Waitley*
