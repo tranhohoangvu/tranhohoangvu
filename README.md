@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "You must welcome change as the rule but not as your ruler."
+> "Make it work, make it right, make it fast."
 >
-> — *Denis Waitley*
+> — *Kent Beck*
