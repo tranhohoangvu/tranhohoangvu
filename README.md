@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Make it work, make it right, make it fast."
+> "The decisions of our past are the architects of our present."
 >
-> — *Kent Beck*
+> — *Dan Brown*
