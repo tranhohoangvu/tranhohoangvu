@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "The decisions of our past are the architects of our present."
+> "First, solve the problem. Then, write the code."
 >
-> — *Dan Brown*
+> — *John Johnson*
