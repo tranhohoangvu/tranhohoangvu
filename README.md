@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "Good code is its own best documentation."
 >
-> — *Antoine de Saint-Exupéry*
+> — *Steve McConnell*
