@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Good code is its own best documentation."
+> "It's not a bug — it's an undocumented feature."
 >
-> — *Steve McConnell*
+> — *Anonymous*
