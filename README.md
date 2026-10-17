@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "It's not a bug — it's an undocumented feature."
+> "Courage is not having the strength to go on; it is going on when you don't have the strength."
 >
-> — *Anonymous*
+> — *Theodore Roosevelt*
