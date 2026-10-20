@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+> "Make it work, make it right, make it fast."
 >
-> — *Patrick McKenzie*
+> — *Kent Beck*
