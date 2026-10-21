@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Make it work, make it right, make it fast."
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
 >
-> — *Kent Beck*
+> — *Bill Gates*
