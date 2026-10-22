@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
+> "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."
 >
-> — *Bill Gates*
+> — *Robert Greene*
