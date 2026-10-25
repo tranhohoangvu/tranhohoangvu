@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
 >
-> — *Bill Gates*
+> — *Patrick McKenzie*
