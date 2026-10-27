@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "When the time is gone, you can never get it back."
+> "One of my most productive days was throwing away 1,000 lines of code."
 >
-> — *Stephen King*
+> — *Ken Thompson*
