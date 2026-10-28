@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Your mind will make you rich or poor, depending on the use you put to it."
 >
-> — *Ken Thompson*
+> — *Brian Tracy*
