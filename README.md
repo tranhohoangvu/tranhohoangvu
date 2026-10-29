@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Your mind will make you rich or poor, depending on the use you put to it."
+> "First, solve the problem. Then, write the code."
 >
-> — *Brian Tracy*
+> — *John Johnson*
