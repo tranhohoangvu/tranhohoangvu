@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "Your gift is something that you can do innately better than anything else."
 >
-> — *John Johnson*
+> — *Steve Harvey*
