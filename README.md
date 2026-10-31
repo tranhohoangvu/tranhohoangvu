@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Your gift is something that you can do innately better than anything else."
+> "Code is like humor. When you have to explain it, it's bad."
 >
-> — *Steve Harvey*
+> — *Cory House*
