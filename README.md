@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Being entirely honest with oneself is a good exercise."
+> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."
 >
-> — *Sigmund Freud*
+> — *Gary Keller*
