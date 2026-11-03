@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."
+> "Code is like humor. When you have to explain it, it's bad."
 >
-> — *Gary Keller*
+> — *Cory House*
