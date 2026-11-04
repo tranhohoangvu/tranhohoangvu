@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."
 >
-> — *Cory House*
+> — *Criss Jami*
