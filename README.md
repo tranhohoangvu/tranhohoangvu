@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."
+> "Programs must be written for people to read, and only incidentally for machines to execute."
 >
-> — *Criss Jami*
+> — *Harold Abelson*
