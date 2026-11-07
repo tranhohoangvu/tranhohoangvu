@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "One of the most difficult things is not to change society - but to change yourself."
 >
-> — *John Johnson*
+> — *Nelson Mandela*
