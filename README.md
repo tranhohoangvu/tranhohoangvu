@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "One of the most difficult things is not to change society - but to change yourself."
+> "I alone cannot change the world, but I can cast a stone across the waters to create many ripples."
 >
-> — *Nelson Mandela*
+> — *Mother Teresa*
