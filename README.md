@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "I alone cannot change the world, but I can cast a stone across the waters to create many ripples."
+> "One of my most productive days was throwing away 1,000 lines of code."
 >
-> — *Mother Teresa*
+> — *Ken Thompson*
