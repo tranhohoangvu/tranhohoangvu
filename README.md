@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "When there is nothing to do, do nothing."
 >
-> — *Ken Thompson*
+> — *Warren Buffett*
