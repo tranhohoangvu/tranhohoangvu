@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "When there is nothing to do, do nothing."
+> "First, solve the problem. Then, write the code."
 >
-> — *Warren Buffett*
+> — *John Johnson*
