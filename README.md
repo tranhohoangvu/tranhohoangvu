@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "Inspire yourself to be great. Being good isn't good enough."
 >
-> — *John Johnson*
+> — *Gurbaksh Chahal*
