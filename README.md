@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Inspire yourself to be great. Being good isn't good enough."
+> "Anyone who has ever made anything of importance was disciplined."
 >
-> — *Gurbaksh Chahal*
+> — *Andrew Hendrixson*
