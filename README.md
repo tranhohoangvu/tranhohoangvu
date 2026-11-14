@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Anyone who has ever made anything of importance was disciplined."
+> "Nothing can survive without food. Everything we consume acts either to heal us or to poison us."
 >
-> — *Andrew Hendrixson*
+> — *Thich Nhat Hanh*
