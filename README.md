@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Nothing can survive without food. Everything we consume acts either to heal us or to poison us."
+> "All problems are illusions of the mind."
 >
-> — *Thich Nhat Hanh*
+> — *Eckhart Tolle*
