@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "All problems are illusions of the mind."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Eckhart Tolle*
+> — *Antoine de Saint-Exupéry*
