@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "The goal of an artist is to create the definitive work that cannot be surpassed."
 >
-> — *Antoine de Saint-Exupéry*
+> — *George Bernard Shaw*
