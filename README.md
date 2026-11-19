@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "The only way to learn a new programming language is by writing programs in it."
+> "If you're afraid - don't do it, - if you're doing it - don't be afraid!"
 >
-> — *Dennis Ritchie*
+> — *Genghis Khan*
