@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "If you're afraid - don't do it, - if you're doing it - don't be afraid!"
+> "You talk when you cease to be at peace with your thoughts."
 >
-> — *Genghis Khan*
+> — *Kahlil Gibran*
