@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "You talk when you cease to be at peace with your thoughts."
+> "Java is to JavaScript what car is to carpet."
 >
-> — *Kahlil Gibran*
+> — *Chris Heilmann*
