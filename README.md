@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Java is to JavaScript what car is to carpet."
+> "One of my most productive days was throwing away 1,000 lines of code."
 >
-> — *Chris Heilmann*
+> — *Ken Thompson*
