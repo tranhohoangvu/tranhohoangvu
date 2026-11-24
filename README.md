@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Ken Thompson*
+> — *Antoine de Saint-Exupéry*
