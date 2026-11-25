@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."
 >
-> — *Antoine de Saint-Exupéry*
+> — *Celestine Chua*
