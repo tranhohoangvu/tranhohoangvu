@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."
+> "Success is going from failure to failure without losing your enthusiasm"
 >
-> — *Celestine Chua*
+> — *Winston Churchill*
