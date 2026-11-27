@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "Success is going from failure to failure without losing your enthusiasm"
+> "To a mind that is still, the entire universe surrenders."
 >
-> — *Winston Churchill*
+> — *Zhuangzi*
