@@ -85,6 +85,6 @@ Computer Science graduate from **Ton Duc Thang University** focusing on **Backen
 
 ### 💡 Quote of the Day
 
-> "To a mind that is still, the entire universe surrenders."
+> "Although the world is full of suffering, it is also full of the overcoming of it."
 >
-> — *Zhuangzi*
+> — *Helen Keller*
